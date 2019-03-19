@@ -1,0 +1,10 @@
+README.md
+setup.py
+myfunctions/__init__.py
+myfunctions/recursion.py
+myfunctions/sorting.py
+myfunctions.egg-info/PKG-INFO
+myfunctions.egg-info/SOURCES.txt
+myfunctions.egg-info/dependency_links.txt
+myfunctions.egg-info/requires.txt
+myfunctions.egg-info/top_level.txt

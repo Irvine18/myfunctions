@@ -1,0 +1,21 @@
+Metadata-Version: 1.0
+Name: myfunctions
+Version: 0.1
+Summary: my python package
+Home-page: https://github.com/Irvine18/myfunction
+Author: <Irvine>
+Author-email: <ikchipindu18@gmail.com>
+License: MIT
+Description: # myfunctions
+        This is a library which consists of recursive functions and sorting functions.
+        
+        ## building this package locally
+        `python setup.py sdist`
+        
+        ## installing this package from Github
+        `pip install git+https://github.com/Irvine18/myfunctions.git`
+        
+        ## updating this package from Github
+        `pip install --upgrade git+https://github.com/Irvine18/myfunctions.git`
+        
+Platform: UNKNOWN
